@@ -3,15 +3,12 @@ from qdrant_client.models import PointStruct, VectorParams, Distance
 from sentence_transformers import SentenceTransformer
 import uuid
 
-# Initialize embedding model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Initialize Qdrant (local, in-memory)
 client = QdrantClient(":memory:")
 
 COLLECTION_NAME = "medical_records"
 
-# Create collection if not exists
 if not client.collection_exists(COLLECTION_NAME):
     client.create_collection(
         collection_name=COLLECTION_NAME,
@@ -21,7 +18,6 @@ if not client.collection_exists(COLLECTION_NAME):
         ),
     )
 
-# Read patient records
 with open("data/patients_records.txt", "r") as file:
     records = file.read().split("\n\n")
 
@@ -37,10 +33,10 @@ for record in records:
         )
     )
 
-# Upload to Qdrant
 client.upsert(
     collection_name=COLLECTION_NAME,
     points=points
 )
 
 print("✅ Patient medical records successfully stored in Qdrant.")
+
