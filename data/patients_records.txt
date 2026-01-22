@@ -1,0 +1,179 @@
+PatientID: P001
+Age: 45
+History: Diagnosed with Type 2 Diabetes in 2018.
+Medications: Metformin.
+Notes: Regular HbA1c monitoring.
+
+PatientID: P002
+Age: 60
+History: Hypertension since 2015.
+Medications: Amlodipine.
+Notes: Blood pressure under control.
+
+PatientID: P003
+Age: 35
+History: Asthma since childhood.
+Medications: Salbutamol inhaler.
+Notes: Mild seasonal flare-ups.
+
+PatientID: P004
+Age: 52
+History: Coronary artery disease diagnosed in 2020.
+Medications: Aspirin, Atorvastatin.
+Notes: Advised lifestyle modification.
+
+PatientID: P005
+Age: 28
+History: Migraine headaches for 5 years.
+Medications: Sumatriptan.
+Notes: Triggered by stress and lack of sleep.
+
+PatientID: P006
+Age: 67
+History: Chronic kidney disease stage 2.
+Medications: ACE inhibitors.
+Notes: Regular renal function monitoring.
+
+PatientID: P007
+Age: 41
+History: Hypothyroidism diagnosed in 2016.
+Medications: Levothyroxine.
+Notes: Stable TSH levels.
+
+PatientID: P008
+Age: 55
+History: Osteoarthritis of knee joints.
+Medications: NSAIDs as needed.
+Notes: Pain worsens with activity.
+
+PatientID: P009
+Age: 33
+History: Generalized anxiety disorder.
+Medications: Sertraline.
+Notes: Attending cognitive behavioral therapy.
+
+PatientID: P010
+Age: 72
+History: Chronic obstructive pulmonary disease.
+Medications: Inhaled bronchodilators.
+Notes: Former smoker.
+
+PatientID: P011
+Age: 49
+History: Prediabetes identified in 2021.
+Medications: Lifestyle management.
+Notes: Advised weight reduction.
+
+PatientID: P012
+Age: 58
+History: Hyperlipidemia.
+Medications: Statins.
+Notes: Cholesterol levels improving.
+
+PatientID: P013
+Age: 26
+History: Iron deficiency anemia.
+Medications: Iron supplements.
+Notes: Dietary counseling provided.
+
+PatientID: P014
+Age: 64
+History: History of ischemic stroke in 2019.
+Medications: Antiplatelet therapy.
+Notes: Mild residual weakness.
+
+PatientID: P015
+Age: 37
+History: Gastroesophageal reflux disease.
+Medications: Proton pump inhibitors.
+Notes: Symptoms worsen at night.
+
+PatientID: P016
+Age: 54
+History: Obstructive sleep apnea.
+Medications: CPAP therapy.
+Notes: Improved daytime alertness.
+
+PatientID: P017
+Age: 46
+History: Chronic lower back pain.
+Medications: Analgesics.
+Notes: Undergoing physiotherapy.
+
+PatientID: P018
+Age: 31
+History: Polycystic ovary syndrome.
+Medications: Hormonal therapy.
+Notes: Irregular menstrual cycles.
+
+PatientID: P019
+Age: 69
+History: Benign prostatic hyperplasia.
+Medications: Alpha blockers.
+Notes: Urinary symptoms controlled.
+
+PatientID: P020
+Age: 23
+History: Seasonal allergic rhinitis.
+Medications: Antihistamines.
+Notes: Symptoms peak during spring.
+
+PatientID: P021
+Age: 59
+History: Chronic liver disease (fatty liver).
+Medications: Lifestyle modification.
+Notes: Advised alcohol cessation.
+
+PatientID: P022
+Age: 44
+History: Psoriasis.
+Medications: Topical corticosteroids.
+Notes: Stress-related flare-ups.
+
+PatientID: P023
+Age: 62
+History: Heart failure with preserved ejection fraction.
+Medications: Diuretics.
+Notes: Monitoring fluid intake.
+
+PatientID: P024
+Age: 39
+History: Recurrent urinary tract infections.
+Medications: Antibiotics as needed.
+Notes: Advised hydration.
+
+PatientID: P025
+Age: 51
+History: Rheumatoid arthritis.
+Medications: DMARDs.
+Notes: Joint stiffness in mornings.
+
+PatientID: P026
+Age: 29
+History: Vitamin D deficiency.
+Medications: Vitamin D supplements.
+Notes: Bone density normal.
+
+PatientID: P027
+Age: 65
+History: Chronic kidney disease stage 3 diagnosed in 2020.
+Medications: Angiotensin receptor blockers.
+Notes: Reduced glomerular filtration rate, under nephrology follow-up.
+
+PatientID: P028
+Age: 34
+History: Depression.
+Medications: SSRIs.
+Notes: Mood improving with therapy.
+
+PatientID: P029
+Age: 57
+History: Chronic gastritis.
+Medications: H2 blockers.
+Notes: Avoids spicy food.
+
+PatientID: P030
+Age: 48
+History: History of recurrent kidney stones.
+Medications: Increased fluid intake.
+Notes: Advised dietary modification.
